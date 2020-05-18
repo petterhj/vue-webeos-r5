@@ -1,4 +1,6 @@
-# vue-webeos
+# vue-webeos-r5
+
+![webeos-r5](https://github.com/petterhj/vue-webeos-r5/raw/master/screenshots/screenshot0.png)
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
